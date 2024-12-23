@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+Pillow
+crewai
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+google-generativeai
+python-pdf
