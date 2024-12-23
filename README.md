@@ -24,11 +24,19 @@
 <hr><p>All dependencies are listed in the Python environment. Key requirements include:</p>
 <p>Python 3.8+
 Streamlit
+  
+Gemini
+
 FAISS
+
 HuggingFace
+
 CrewAI
+
 dotenv
-PyPDFLoader</p><h5>Steps</h5><ul>
+
+PyPDFLoader
+</p><h5>Steps</h5><ul>
 <li>Clone the project repository.</li>
 </ul><ul>
 <li>Install required dependencies using pip install -r requirements.txt.</li>
